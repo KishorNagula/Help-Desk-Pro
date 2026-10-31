@@ -43,3 +43,17 @@ HelpDesk Pro is a full-stack IT Help Desk and Ticket Management System built to 
 | ORM | Spring Data JPA, Hibernate |
 | Build Tools | Maven, npm |
 | Development
+
+## 📸 Application Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Support Agent Dashboard
+![Support Agent Dashboard](screenshots/support-agent-dashboard.png)
