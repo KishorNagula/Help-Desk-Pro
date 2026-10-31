@@ -47,13 +47,13 @@ HelpDesk Pro is a full-stack IT Help Desk and Ticket Management System built to 
 ## 📸 Application Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](user-dashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](admin-dashboard.png)
 
 ### Support Agent Dashboard
-![Support Agent Dashboard](screenshots/support-agent-dashboard.png)
+![Support Agent Dashboard](support-agent-dashboard.png)
